@@ -1,0 +1,8 @@
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Dev\GitPractice\PracticeProject1\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
